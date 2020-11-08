@@ -1,4 +1,4 @@
-<?phps
+<?phpss
 
 /**
  * Used to store website configuration information.
